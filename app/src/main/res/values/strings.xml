@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Green House</string>
+    <string name="tangki1">Tangki 1</string>
+    <string name="tangki2">Tangki 2</string>
+    <string name="lampu">Lampu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
